@@ -1,2 +1,3 @@
 this is the 3rd commit
 i merged the branch with main, but now i will commit. lets see what happens
+main one
